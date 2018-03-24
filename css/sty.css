@@ -3,7 +3,7 @@ body{
 	background-repeat: no-repeat;
 }
 nav{
-	font-family:Microsoft YaHei,SimHei ;
+	font-family:"Microsoft YaHei",SimHei,sans-serif ;
 	font-size: 18px; 
 	font-weight:bold;
 	line-height: 24px;
